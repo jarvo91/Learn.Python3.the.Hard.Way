@@ -1,0 +1,5 @@
+print(2 << 4)
+print(221 >> 3)
+print(3 & 4)
+print(7 | 9)
+print(34 ^ 66)
